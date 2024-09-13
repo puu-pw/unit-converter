@@ -31,7 +31,7 @@ Clone or Download the Repository:
 
 Clone the repository:
 
-git clone https://github.com/your-username/advanced-unit-converter.git
+git clone https://github.com/puu-pw/unit-converter.git
 Or download the ZIP file and extract it.
 Run the Application: Open a terminal and run the script:
 

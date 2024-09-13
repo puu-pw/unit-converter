@@ -26,12 +26,13 @@ jobs:
       # Install dependencies
       - name: Install dependencies
         run: |
-          python -m pip install pylint
+           python -m pip install pylint
 
       # Run Pylint
       - name: Run Pylint
         shell: pwsh
         run: |
           python -m pylint unit-converter.py
+
 
 

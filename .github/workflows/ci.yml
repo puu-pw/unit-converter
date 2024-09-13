@@ -34,5 +34,6 @@ jobs:
       # Run Pylint
       - name: Run Pylint
         run: |
-          pylint python -m pylint unit-converter.py
+          run: python -m pylint unit-converter.py
+
 
